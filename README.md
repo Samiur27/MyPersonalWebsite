@@ -13,10 +13,4 @@ A responsive single-page portfolio website built from the information in Shah Sa
 
 Open `index.html` in a browser.
 
-For local development, you can also use VS Code with the Live Server extension.
 
-## Before publishing
-
-1. Replace the `LinkedIn` placeholder link in `index.html` with the real LinkedIn profile URL.
-2. Add GitHub, Google Scholar, ORCID, ResearchGate, or publications if desired.
-3. Upload the folder to GitHub Pages, Netlify, Vercel, or another static hosting service.
