@@ -1,6 +1,5 @@
-# Shah Samiur Rahman — Research Portfolio
+# Shah Samiur Rahman — Portfolio
 
-A responsive single-page portfolio website built from the information in Shah Samiur Rahman's CV.
 
 ## Files
 
